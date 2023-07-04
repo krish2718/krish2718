@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Self-employed freelancer working on all things Wi-Fi and beyond.
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=krish2718)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 <!--
 **krish2718/krish2718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
